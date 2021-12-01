@@ -1,0 +1,11 @@
+setup.py
+first/__init__.py
+first/data1.py
+first/data2.py
+myfirstpackage.egg-info/PKG-INFO
+myfirstpackage.egg-info/SOURCES.txt
+myfirstpackage.egg-info/dependency_links.txt
+myfirstpackage.egg-info/not-zip-safe
+myfirstpackage.egg-info/top_level.txt
+second/__init__.py
+second/url.py
